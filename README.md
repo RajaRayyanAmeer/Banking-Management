@@ -1,2 +1,6 @@
 # Banking-Management
-C++, Well I programmed twice. Concept of both (90% same), but Programming still different, a little bit.
+C++
+<br>
+Well, I programmed twice. Conceptually, both are similar (90% the same), but Programming is still slightly different.
+<br>
+The main difference lies in the Concept of File Handling. One has it, and one has not.
